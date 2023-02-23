@@ -1,0 +1,3 @@
+name: Arjen Nayal
+hobby: Basketball
+food: anything edible
